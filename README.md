@@ -6,7 +6,9 @@ está en ´~/.ssh´. Podes verificarlo de la siguiente manera:
 
 ``
 $cd ~/.ssh
+
 $ls
+
 authorized_keys2  id_dsa       known_hosts
 config            id_dsa.pub
 ``
