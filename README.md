@@ -12,7 +12,7 @@ config            id_dsa.pub
 ```
 
 Acá lo que importa es id_dsa (tambien puede estar como id_rsa) e id_dsa.pub (id_rsa.pub). El archivo que termina
-en ``.pub`` es tu calve pública, y el otro archivo es tu clave privada. Si no tenés esos archivos,
+en ``.pub`` es tu clave pública, y el otro archivo es tu clave privada. Si no tenés esos archivos,
 entonces vamos a crearlos.
 
 Para crear la llave, vamos a utilizar el programa ``ssh-keygen``, que por lo general ya viene incluido en el paquete SSH de los sistemas Linux/Mac o en el paquete MSysGit en los sistemas Windows:
