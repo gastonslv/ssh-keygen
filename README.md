@@ -1,7 +1,7 @@
 ### Cómo Crear tu llave SSH 🔑
 
 Primero que nada, hay que asegurarse de que no tenes una. Por defecto, el directorio 📁 con la llave
-está en ´~/.ssh´. Podes verificarlo de la siguiente manera:
+está en ``~/.ssh``. Podes verificarlo de la siguiente manera:
 
 
 ```
