@@ -4,7 +4,7 @@ Primero que nada, hay que asegurarse de que no tenes una. Por defecto, el direct
 está en ´~/.ssh´. Podes verificarlo de la siguiente manera:
 
 
-´´´sh
+´´´
 $cd ~/.ssh
 $ls
 authorized_keys2  id_dsa       known_hosts
